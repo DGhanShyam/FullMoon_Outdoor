@@ -1,0 +1,32 @@
+*{
+    font-size: 14px;
+}  
+
+h4{
+    font-size: 24px;
+    font-weight: 700;
+
+}
+h5{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.fixed-top p:hover{
+    border-bottom: 2px solid #1dc1c6;
+    color:#1dc1c6;
+  }
+
+  .fixed-top p:active{
+    border-bottom: 2px solid #1ac1c6;
+    color:#1dc1c6;
+  }
+  .active{
+    border-bottom: 2px solid #1ac1c6;
+    color:#1dc1c6;      
+  }
+
+  .fixed-top p{
+   padding-bottom: 1rem;
+   padding-left: 1rem;
+}

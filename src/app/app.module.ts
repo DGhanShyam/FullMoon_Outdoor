@@ -3,6 +3,10 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 
+
+
+import { environment } from 'src/environments/environment';
+
 @NgModule({
   declarations: [
     AppComponent
